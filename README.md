@@ -1,4 +1,4 @@
-1. Mobile Sign Up App
+1. **Mobile Sign Up App**
 The Mobile Sign Up App project focuses on creating a user-friendly interface for signing up on a mobile application. It emphasizes simplicity and ease of use to streamline the registration process.
 Main Features
 User Registration Form: A clean and intuitive form layout designed for mobile screens, allowing users to input their information easily.
@@ -6,7 +6,7 @@ Validation: Real-time validation feedback for input fields to guide users and pr
 Mobile Responsiveness: Design optimized for various mobile devices, ensuring a seamless user experience across different screen sizes.
 Visual Hierarchy: Clear visual hierarchy and emphasis on important elements like the sign-up button and input fields for enhanced usability.👌✔
 
-3. Restaurant Menu App
+3. **Restaurant Menu App**
 The Restaurant Menu App project aims to create an interactive and visually appealing menu interface for a restaurant, enhancing the dining experience for customers.
 Main Features
 Menu Categories: Organized menu items into categories for easy navigation and selection.
@@ -15,7 +15,7 @@ Search Functionality: Search feature to help users quickly find specific menu it
 Interactive Elements: Interactive buttons for adding items to the cart, customizing orders, and viewing item details.
 Visual Design: Attractive visual design with high-quality images and consistent branding elements.👏💋
 
-5. Email Template
+5. **Email Template**
 The Email Template project focuses on creating a visually engaging and responsive template for email marketing campaigns. It aims to capture recipients' attention and drive engagement.
 Main Features
 Responsive Layout: Design optimized for various email clients and devices, ensuring consistent display across different platforms.
